@@ -17,7 +17,13 @@
         tools:layout_editor_absoluteY="16dp"
         tools:layout_editor_absoluteX="0dp"
 <<<<<<< HEAD
+<<<<<<< HEAD
         tools:ignore="ContentDescription,MissingConstraints" />
+=======
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="6dp" />
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
 =======
         android:layout_alignParentTop="true"
         android:layout_alignParentStart="true"
@@ -33,7 +39,13 @@
         tools:layout_editor_absoluteX="13dp"
         tools:layout_editor_absoluteY="175dp"
 <<<<<<< HEAD
+<<<<<<< HEAD
         tools:ignore="HardcodedText,MissingConstraints" />
+=======
+        android:layout_marginTop="60dp"
+        android:layout_below="@+id/event_image"
+        android:layout_centerHorizontal="true" />
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
 =======
         android:layout_marginTop="60dp"
         android:layout_below="@+id/event_image"
@@ -49,12 +61,18 @@
         tools:layout_editor_absoluteX="44dp"
         tools:layout_editor_absoluteY="247dp"
 <<<<<<< HEAD
+<<<<<<< HEAD
         tools:ignore="HardcodedText,MissingConstraints" />
 =======
+=======
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
         android:layout_marginStart="17dp"
         android:layout_marginTop="84dp"
         android:layout_below="@+id/Description"
         android:layout_toEndOf="@+id/p_u_plus_btn" />
+<<<<<<< HEAD
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
+=======
 >>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
 
     <TextView
@@ -78,7 +96,13 @@
         tools:layout_editor_absoluteX="180dp"
         tools:layout_editor_absoluteY="329dp"
 <<<<<<< HEAD
+<<<<<<< HEAD
         tools:ignore="HardcodedText,MissingConstraints" />
+=======
+        android:layout_below="@+id/total_price"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="46dp" />
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
 =======
         android:layout_below="@+id/total_price"
         android:layout_centerHorizontal="true"
@@ -94,12 +118,18 @@
         tools:layout_editor_absoluteX="234dp"
         tools:layout_editor_absoluteY="309dp"
 <<<<<<< HEAD
+<<<<<<< HEAD
         tools:ignore="HardcodedText,MissingConstraints" />
 =======
+=======
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
         android:layout_marginStart="28dp"
         android:layout_alignBaseline="@+id/unit"
         android:layout_alignBottom="@+id/unit"
         android:layout_toEndOf="@+id/unit" />
+<<<<<<< HEAD
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
+=======
 >>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
 
     <Button
@@ -111,12 +141,18 @@
         tools:layout_editor_absoluteX="104dp"
         tools:layout_editor_absoluteY="309dp"
 <<<<<<< HEAD
+<<<<<<< HEAD
         tools:ignore="HardcodedText,MissingConstraints" />
 =======
+=======
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
         android:layout_alignBaseline="@+id/unit"
         android:layout_alignBottom="@+id/unit"
         android:layout_toStartOf="@+id/unit"
         android:layout_marginEnd="12dp" />
+<<<<<<< HEAD
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
+=======
 >>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
 
     <Button
@@ -128,12 +164,18 @@
         tools:layout_editor_absoluteX="144dp"
         tools:layout_editor_absoluteY="382dp"
 <<<<<<< HEAD
+<<<<<<< HEAD
         tools:ignore="HardcodedText,MissingConstraints" />
 </android.support.constraint.ConstraintLayout>
 =======
+=======
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
         android:layout_marginStart="18dp"
         android:layout_marginTop="38dp"
         android:layout_below="@+id/p_u_minus_btn"
         android:layout_toEndOf="@+id/price_per_unit" />
 </RelativeLayout>
+<<<<<<< HEAD
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
+=======
 >>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1

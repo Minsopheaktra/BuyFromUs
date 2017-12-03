@@ -28,6 +28,9 @@
         android:layout_marginStart="80dp"
         android:layout_above="@+id/p_n_phonenumber_input"
         android:layout_alignParentStart="true" />
+<<<<<<< HEAD
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
+=======
 >>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
 
     <EditText
@@ -38,6 +41,7 @@
         android:layout_height="wrap_content"
         android:ems="10"
         android:inputType="phone"
+<<<<<<< HEAD
 <<<<<<< HEAD
         android:layout_above="@+id/p_n_confirm_btn"
         android:layout_centerHorizontal="true"
@@ -50,10 +54,15 @@
         app:layout_constraintLeft_toLeftOf="parent"
         tools:ignore="HardcodedText" />
 =======
+=======
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
         tools:layout_editor_absoluteY="243dp"
         tools:layout_editor_absoluteX="85dp"
         android:layout_centerVertical="true"
         android:layout_centerHorizontal="true" />
+<<<<<<< HEAD
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
+=======
 >>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
 
     <Button
@@ -77,6 +86,9 @@
         android:layout_marginTop="64dp"
         android:layout_below="@+id/p_n_phonenumber_input"
         android:layout_alignEnd="@+id/p_n_phonenumber_input" />
+<<<<<<< HEAD
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
+=======
 >>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
 
     <Button
@@ -86,6 +98,7 @@
         android:layout_height="wrap_content"
         android:onClick="cancel"
         android:text="Purchase"
+<<<<<<< HEAD
 <<<<<<< HEAD
         tools:layout_constraintRight_creator="1"
         android:layout_marginEnd="76dp"
@@ -103,6 +116,14 @@
         android:layout_alignBottom="@+id/p_n_confirm_btn"
         android:layout_alignStart="@+id/p_n_phonenumber_input" />
 
+=======
+        tools:layout_editor_absoluteX="212dp"
+        tools:layout_editor_absoluteY="369dp"
+        android:layout_alignBaseline="@+id/p_n_confirm_btn"
+        android:layout_alignBottom="@+id/p_n_confirm_btn"
+        android:layout_alignStart="@+id/p_n_phonenumber_input" />
+
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
     <!--<android.support.v7.widget.AppCompatImageButton-->
         <!--android:layout_width="100dp"-->
         <!--android:layout_height="100dp" />-->
@@ -113,4 +134,7 @@
         <!--android:layout_alignParentTop="true"-->
         <!--android:layout_alignParentEnd="true" />-->
 </RelativeLayout>
+<<<<<<< HEAD
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
+=======
 >>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1

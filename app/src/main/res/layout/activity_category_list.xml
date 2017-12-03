@@ -58,7 +58,11 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
 <<<<<<< HEAD
+<<<<<<< HEAD
         app:srcCompat="@drawable/smart_title"
+=======
+        android:src="@drawable/smart_title"
+>>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
 =======
         android:src="@drawable/smart_title"
 >>>>>>> 4c7d6b3991f1d9ca6dfd41a7f85293c7100773c1
